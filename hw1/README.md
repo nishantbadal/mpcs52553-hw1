@@ -1,3 +1,8 @@
+Name: Nishant Badal
+
+Everything finished as described below.
+
+
 # Homework #1
 
 **DUE: Next week before class starts.**
